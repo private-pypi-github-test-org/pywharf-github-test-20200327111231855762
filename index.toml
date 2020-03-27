@@ -1,0 +1,13 @@
+mtime = 1585307566
+[[pkgs]]
+type = "github"
+distrib = "ruwb6uxujaugnbtmmbxp3s"
+package = "RuWb6uXUjAuGnBTMMbxP3S-1.0-py3-none-any"
+ext = "whl"
+sha256 = "1da830d4e56904929bb0c9969eb0dc15e4b69895b4f335df68099b760792771c"
+url = "https://api.github.com/repos/private-pypi-github-test-org/pywharf-github-test-20200327111231855762/releases/assets/19059155"
+
+[pkgs.meta]
+name = "RuWb6uXUjAuGnBTMMbxP3S"
+distrib = "ruwb6uxujaugnbtmmbxp3s"
+sha256 = "1da830d4e56904929bb0c9969eb0dc15e4b69895b4f335df68099b760792771c"
